@@ -1,7 +1,7 @@
 # Beauty-parlor-management-system
 Beauty parlor management system works as the contact point between clients and the salon. Clients use this website application to request an appointment, which salon managers either accept or cancel. This program also has billing system along with income and expenditure calculation.
 
-Program features of salon management system
+#Program features of salon management system
 Dashboard: In this part, the administrator can view all information in brief, including the total number of clients, appointments, appointments that were accepted or rejected, total services, sales for the previous seven days, today’s sales, yesterday’s sales, and overall sales.
 Services: The administrator can control the salon’s services in this section (add and update).
 Pages: The administrator can control the contact us and about us pages in this section.
